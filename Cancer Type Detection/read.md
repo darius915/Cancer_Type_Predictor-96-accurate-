@@ -21,6 +21,25 @@ Malignant tumors can be life-threatening, and they require prompt medical attent
 Cancers can occur in various parts of the body and can be further categorized based on the type of tissue or cell from which they originate. Common examples of malignant cancers include breast cancer, lung cancer, prostate cancer, and colorectal cancer.
 
 
+These predictions are made based on some features or observations which include:
+         1.radius_mean	
+         2.texture_mean	perimeter_mean	
+         3.area_mean	
+         3.smoothness_mean	
+         4.compactness_mean	concavity_mean	
+         5.concave points_mean 
+         6.texture_worst	
+         7.perimeter_worst	
+         8.area_worst	
+         9.smoothness_worst	
+         10.compactness_worst	
+         11.concavity_worst	
+         12.concave 
+         13.points_worst	
+         14.symmetry_worst	
+         15.fractal_dimension_worst
+
+
 
 
 
