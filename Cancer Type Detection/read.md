@@ -34,10 +34,9 @@ These predictions are made based on some features or observations which include:
          9.smoothness_worst	
          10.compactness_worst	
          11.concavity_worst	
-         12.concave 
-         13.points_worst	
-         14.symmetry_worst	
-         15.fractal_dimension_worst
+         12.concave points_worst	
+         13.symmetry_worst	
+         14.fractal_dimension_worst
 
 
 
